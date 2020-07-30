@@ -19,3 +19,6 @@ z = 20
 print("Multiplication :", p * q * r)
 
 Print("Subtraction :", q - z)
+
+While r > z:
+  print(r)
