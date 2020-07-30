@@ -10,4 +10,11 @@ for i < j:
     elif:
       print("Not Equal")
       
-      
+print("My Seocond Program")
+
+p = 100
+q = 200
+r = 50
+
+print("Multiplication :", p * q * r)
+
