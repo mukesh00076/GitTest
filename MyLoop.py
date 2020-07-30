@@ -15,6 +15,7 @@ print("My Seocond Program")
 p = 100
 q = 200
 r = 50
-
+z = 20 
 print("Multiplication :", p * q * r)
 
+Print("Subtraction :", q - z)
